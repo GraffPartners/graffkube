@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 3,
+  "appName": "Platform Kube",
+  "items": [
+    {
+      "version": "0.1.0",
+      "buildNumber": 1,
+      "platform": "macos",
+      "channel": "beta",
+      "mandatory": false,
+      "release": "https://graffpartners.github.io/graffkube/updates/releases/beta/0.1.0/build-1/macos/release.json"
+    }
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-4a0e688572b19ac3d0c4a652",
+    "value": "QpBZI6JSwYUxwD2DuzuK2StY0AT9DzeKpNglvrWN6cL9yddGLe29u5w11SVse8TxDbQE8EMqHgW/Nz8WXqKYCg=="
+  }
+}
