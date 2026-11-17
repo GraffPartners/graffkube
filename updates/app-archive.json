@@ -25,11 +25,19 @@
       "channel": "beta",
       "mandatory": false,
       "release": "https://graffpartners.github.io/graffkube/updates/releases/beta/0.1.2/build-3/macos/release.json"
+    },
+    {
+      "version": "0.1.4",
+      "buildNumber": 5,
+      "platform": "macos",
+      "channel": "beta",
+      "mandatory": false,
+      "release": "https://graffpartners.github.io/graffkube/updates/releases/beta/0.1.4/build-5/macos/release.json"
     }
   ],
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-4a0e688572b19ac3d0c4a652",
-    "value": "IA+pWRYCNYxDCqptk7WKaU7DNk4dK1ANXpl3AUO8EYAt+YoDNu7VMQi+UI6XadzFF7y1RrO07FR7u4SpRaWtAA=="
+    "value": "m7Llft8hxpUvi+wgCMQKjYbCiaVptxPt4+KVR5pi58M8MLc+TQm0BGBQiW3dsM1cVPXhHb8izLIWGHjdvWx7BA=="
   }
 }
