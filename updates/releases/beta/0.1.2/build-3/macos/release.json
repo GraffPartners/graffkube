@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "com.platform.forms.kube",
+  "appName": "Platform Kube.app",
+  "version": "0.1.2",
+  "buildNumber": 3,
+  "platform": "macos",
+  "channel": "beta",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://graffpartners.github.io/graffkube/updates/releases/beta/0.1.2/build-3/macos/Platform%20Kube-0.1.2-macos.zip",
+    "sha256": "92c9c565b1f297af56d4e5bd9fdbaa85676849fb68eb36f301d895e45784ca8a",
+    "length": 55439539
+  },
+  "install": {
+    "strategy": "wholeBundleReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-4a0e688572b19ac3d0c4a652",
+    "value": "4ISyHPpWLYkJFWc9ic/YZgyl/rJyfZOqTO/08KiOnVklmHhqzKAEm8mIjVHISujmZ+HlvaHQlLqIz2zlHB0yDQ=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-11-17T07:43:51.918623Z"
+}
