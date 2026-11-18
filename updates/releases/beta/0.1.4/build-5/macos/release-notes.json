@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "type": "feat",
+      "message": "Cluster diagnostics now run popeye, kubent and trivy in one pass and collect every finding into a single ranked list. Expiring certificates and deprecated API versions are surfaced before they break a rollout."
+    },
+    {
+      "type": "feat",
+      "message": "The Network Policy debugger traces which rule actually allows or denies a connection between two pods. RBAC explorer answers the reverse question: what a given ServiceAccount is permitted to do, and where that permission comes from."
+    },
+    {
+      "type": "fix",
+      "message": "Rightsizing progress is no longer lost when the page reloads — recommendations keep their state across restarts. Pod metrics also stop reporting 0% while a node is under load."
+    }
+  ]
+}
